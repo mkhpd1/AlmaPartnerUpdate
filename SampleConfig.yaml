@@ -1,0 +1,8 @@
+ladd_url : https://www.nla.gov.au/librariesaustralia/connect/find-library/ladd-members-and-suspensions
+sand_alma_url : https://api-eu.hosted.exlibrisgroup.com/almaws/v1/partners
+alma_url : https://api-ap.hosted.exlibrisgroup.com/almaws/v1/partners
+sand_APIKey : l7xxx99dd9db9x9999d0a377x914585x25x4
+APIKey : l8xxf199be9xxx894267xxx2f69zz99cbfb9
+numrecs : 1197
+partners : partnercodes2Del.txt
+sandbox : True
